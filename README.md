@@ -1,2 +1,2 @@
 # Machine-Learning-Projects
-This contains implementation of machine learning projects
+This contains implementation of my machine learning projects
